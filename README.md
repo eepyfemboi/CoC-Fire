@@ -1,1 +1,1 @@
-subscribe to my yt or i will grief u in an overrated block game
+subscribe to my yt or i will steal ur stash on oldest anarchy server in overrated block game
