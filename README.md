@@ -5,7 +5,8 @@ heres some stuff for you
 
 ##Discord
 
-<iframe src="https://discord.com/widget?id=1051017522939445248&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=1051017522939445248&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
 
 
 ##Urban Dictionary bot
