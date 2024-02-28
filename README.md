@@ -20,6 +20,4 @@ https://discord.com/oauth2/authorize?client_id=1094819881028956200&permissions=3
 
 # Requests
 
-I can write almost anything in python. Just join my discord and make a ticket for requests.
-
-Im best at writing bots.
+DM me on discord if u want me to make anything. My username is cocfire
