@@ -20,4 +20,4 @@ https://discord.com/oauth2/authorize?client_id=1094819881028956200&permissions=3
 
 # Requests
 
-DM me on discord if u want me to make anything. My username is cocfire
+DM me on discord if u want me to make anything. My username is eepyfemboi
